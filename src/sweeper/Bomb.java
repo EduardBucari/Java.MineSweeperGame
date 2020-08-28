@@ -1,5 +1,8 @@
 package sweeper;
 
+/**
+Class Bo
+ */
 class Bomb
 {
     private Matrix bombMap;
