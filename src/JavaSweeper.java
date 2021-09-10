@@ -8,6 +8,7 @@ import sweeper.Coord;
 import sweeper.Game;
 import sweeper.Ranges;
 
+// class Java 
 public class JavaSweeper extends JFrame
 {
     private Game game;
