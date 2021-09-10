@@ -8,7 +8,7 @@ import sweeper.Coord;
 import sweeper.Game;
 import sweeper.Ranges;
 
-// class JavaSweepe
+// class Java Sweeper
 public class JavaSweeper extends JFrame
 {
     private Game game;
