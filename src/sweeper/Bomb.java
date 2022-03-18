@@ -1,7 +1,7 @@
 package sweeper;
 
 /**
-Class Bomb
+Class Bo
  */
 class Bomb
 {
